@@ -28,7 +28,7 @@ module.exports = {
 
   OPENAI_API_KEY:process.env.OPENAI_API_KEY || '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',
 
-  botname: process.env.BOT_NAME || 'PRABATH-MD',
+  botname: process.env.BOT_NAME || '𝑈𝑆𝛭𝛥𝛮-𝐵𝛩𝑇',
 
   art: process.env.AUTO_RESTART || 'true',
 
