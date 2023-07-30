@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "𝙿𝚁𝙰𝙱𝙰𝚃𝙷",
+  "AUTHOR": " 𝑈𝑆𝛭𝛥𝛮",
   "LANGUAGE": "english",
   "LANGCODE": "en",
   "STRINGS": {
@@ -10,7 +10,7 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
-          "botName": "*PRABATH-MD*",
+          "botName": "*𝑈𝑆𝛭𝛥𝛮-𝐵𝛩𝑇*",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : ".",
           "pic1": "https://i.ibb.co/7YGn5qS/20230305-135924.jpg",
@@ -37,8 +37,8 @@
           "antlink": "Link Detected.\n*Good Bye Sir*",
           "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by *~ PRABATH-MD-WHATSAPP-BOT~*",
           "mention": " Please mention any user Sir",
-          "title": "*PRABATH-MD* ",
-          "footer": "ᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸",
+          "title": "*𝑈𝑆𝛭𝛥𝛮-𝐵𝛩𝑇* ",
+          "footer": "ᴜsᴍᴀɴ-ʙᴏᴛ ⦁ ᴍᴀᴅᴇ ʙʏ ᴜsᴍᴀɴ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸",
           "by": "*PRABATH-MD-WHATSAPP-BOT* ",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
           "success": "*Successful* ✅",
