@@ -20,9 +20,9 @@ global.gurl = 'https://instagram.com/' // add your username
 
 global.devs = '94762280384';
 
-global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+94762280384
+global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+923090658722
 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/UCxG4Ok.jpeg'
 
 module.exports = {
 
@@ -32,13 +32,13 @@ module.exports = {
 
   art: process.env.AUTO_RESTART || 'true',
 
-  sudo: process.env.SUDO || '94762280384',
+  sudo: process.env.SUDO || '923090658722',
 
   alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg',
 
-  alivemsj: process.env.ALIVE_MSJ || '*POWERD BY PRABATH-MD* 🎊',
+  alivemsj: process.env.ALIVE_MSJ || '*POWERD BY 𝑈𝑆𝛭𝛥𝛮-𝐵𝛩𝑇* 🎊',
 
-  ownername:process.env.OWNER_NAME || 'PRABATH',
+  ownername:process.env.OWNER_NAME || ' 𝑈𝑆𝛭𝛥𝛮',
 
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
 
